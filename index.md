@@ -7,7 +7,7 @@
       <p><b>邮箱：3215231343@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % mmexport1600424147838
+      <img src="mmexport1600424147838" width="100%">     
     </td>
   </tr>
 </table>
